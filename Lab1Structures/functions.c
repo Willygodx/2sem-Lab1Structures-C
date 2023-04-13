@@ -1,4 +1,5 @@
 #include "functions.h"
+
 #define SWAP_CHAR(x, y) { char temp[100]; strcpy(temp, x); strcpy(x, y); strcpy(y, temp); }
 #define SWAP_INTEGER(x, y) { int temp = x; x = y; y = temp; }
 #define SWAP_FLOAT(x, y) { float temp = x; x = y; y = temp; }

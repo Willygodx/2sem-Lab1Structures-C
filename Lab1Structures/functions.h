@@ -3,7 +3,6 @@
 #include <locale.h>
 #include <string.h>
 
-
  enum Color {
     colorBlack = 1,
     colorGreen = 2,
