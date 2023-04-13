@@ -5,5 +5,6 @@ int main() {
     struct phone* phoneFunction = NULL;
     menu(phoneFunction, n);
     free(phoneFunction);
+
     return 0;
 }
